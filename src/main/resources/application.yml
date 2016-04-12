@@ -1,0 +1,11 @@
+security:
+  oauth2:
+    client:
+      clientId: a02836667f9a4134a0568de2a8e7bb03
+      clientSecret: 695963d943af449aafaf769f772adcd5
+      accessTokenUri: https://accounts.spotify.com/api/token
+      userAuthorizationUri: https://accounts.spotify.com/authorize
+      authenticationScheme: query
+      clientAuthenticationScheme: form
+    resource:
+      userInfoUri: https://api.spotify.com/v1/me
