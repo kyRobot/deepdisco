@@ -5,3 +5,4 @@ target/
 .settings
 
 flow.txt
+application.yml
