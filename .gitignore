@@ -5,4 +5,4 @@ target/
 .settings
 
 flow.txt
-application.yml
+src/main/resources/application.yml

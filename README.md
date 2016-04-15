@@ -6,7 +6,7 @@ A webapp to dive deeper into Spotify's user specific 'Discover Weekly' playlist
 ## Requirements
 - Java 8
 - Maven
-- [A Spotify Developer App](https://developer.spotify.com) with an OAuth2 callback to localhost:8080
+- [A Spotify Developer App](https://developer.spotify.com) with an OAuth2 callback to localhost:8080/login
 
 ##How to run
 

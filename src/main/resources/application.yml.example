@@ -3,6 +3,7 @@ security:
     client:
       clientId: <<YOUR_CLIENT_ID>>
       clientSecret: <<YOUR_CLIENT_SECRET>>
+      scope: playlist-read-private playlist-modify-private
       accessTokenUri: https://accounts.spotify.com/api/token
       userAuthorizationUri: https://accounts.spotify.com/authorize
       authenticationScheme: query
